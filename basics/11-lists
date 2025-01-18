@@ -1,3 +1,4 @@
+#!/usr/env/bin bash
 ls -la
 ls -la ..
 ls -la /boot
