@@ -1,2 +1,2 @@
-#!/usr/env/bin bash
+#!/bin/bash
 ls -lan
